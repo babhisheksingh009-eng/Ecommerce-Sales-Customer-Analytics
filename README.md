@@ -74,6 +74,15 @@ Common customer segments may include:
 The actual segments depend on the scoring and classification rules implemented in the project.
 
 ## Power BI Dashboard
+### Dashboard Preview
+
+#### Sales Dashboard
+![Sales Dashboard](screenshots/sales_dashboard.png)
+
+#### RFM Customer Analysis
+![RFM Customer Analysis](screenshots/rfm_customer_analysis.png)
+
+---
 
 ### Page 1: Sales Dashboard
 
